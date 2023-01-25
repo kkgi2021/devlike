@@ -23,6 +23,7 @@
 }
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
@@ -63,10 +64,9 @@ body * {
   z-index: 1;
   transform: translatey(-50%);
 }
-.light #switch button{
+.light #switch button {
   right: 0;
   left: initial;
-
 }
 #switch span {
   display: block;
@@ -125,4 +125,12 @@ footer {
   padding: 24px;
   text-align: center;
   font-size: 16px;
+}
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/Background-dark.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/Background-light.jpg);
+  }
 }
