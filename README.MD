@@ -22,6 +22,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
+https://kkgi2021.github.io/devlike/
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
