@@ -24,6 +24,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 https://kkgi2021.github.io/devlike/
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 950d4e04a1549fc7c8ebbe7020e7f6aed0f4a8a0
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -51,4 +55,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+<<<<<<< HEAD
 Feito com ♥ Por mim by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+>>>>>>> 950d4e04a1549fc7c8ebbe7020e7f6aed0f4a8a0
